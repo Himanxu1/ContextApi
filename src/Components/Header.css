@@ -1,0 +1,16 @@
+ul{
+
+    display: flex;
+    height: 60px;
+    background-color: black;
+
+}
+ul li{
+    list-style-type: none;
+    text-decoration: none;
+    margin-left: 200px;
+    font-size: 20px;
+    cursor: pointer;
+    padding-top: 20px;
+    
+}
